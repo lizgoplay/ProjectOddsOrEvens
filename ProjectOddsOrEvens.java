@@ -41,10 +41,6 @@ public class ProjectOddsOrEvens {
 
             //who wins
             //decided whether the final answer is even or odd, and declares a winner
-            //if(user is odd and sum is odd){
-            //    user wins}
-            //else if (user is odd and sum is even){
-            //    user loses}
             String oddOrEven ="";
             String winOrLose = "";
             if (sum%2==0)
